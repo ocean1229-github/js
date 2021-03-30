@@ -30,6 +30,7 @@ var personArray = [
     {"name" : "두현", "age" : 19},
     {"name" : "승연", "age" : 22},
 ];
+
 for(var i=0; i<personArray.length; i++){
     console.log(personArray[i])
 }
@@ -52,4 +53,3 @@ for(var i=0; i<personArray.length; i++){
     }
 }
 
-// 함수
