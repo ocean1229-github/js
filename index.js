@@ -70,3 +70,5 @@ for(var i=0; i<personArray.length; i++){
 // 재선언              O           X           X
 // 재할당              O           O           X
 
+//순 차적으로 진행되게하는 것을 호이스팅이라고 한다
+
