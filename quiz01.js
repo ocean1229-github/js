@@ -8,7 +8,7 @@ function getAgeAverage(personArray) {
 // for (var i =0; i<personArray.length; i++){
 //     var person = personArray[i];
 //     sum = sum + person['age']
-// }
+// } sum 변수를 만들어 주는 것이 좀 더 문제 풀기 용이하다
 
 // average = sum / personArray.length
 
