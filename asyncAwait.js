@@ -1,5 +1,6 @@
 async function f() {
 
+  //Promise(여기) 의미하는 바를 알아야함
     let promise = new Promise((resolve, reject) => {
       setTimeout(() => resolve("완료!"), 1000)
     });
