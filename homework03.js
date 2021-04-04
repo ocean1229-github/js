@@ -8,9 +8,9 @@ function checkName(person) {
 }
 
 var personArray = [
-                    {"name": "Mark Bae", "age": 30},
-                    {"name": "John Doe", "age": 20},
-                    {"name": "Jane Doe", "age": 19},
+    {"name": "Mark Bae", "age": 30},
+    {"name": "John Doe", "age": 20},
+    {"name": "Jane Doe", "age": 19},
 ];
 
 for (var person of personArray) {
