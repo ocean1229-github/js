@@ -1,0 +1,23 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "js연습",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocean1229-github/js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ocean1229-github/js/issues"
+  },
+  "homepage": "https://github.com/ocean1229-github/js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
